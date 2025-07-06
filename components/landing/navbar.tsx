@@ -12,7 +12,7 @@ import { RAW_ICONS } from "@/utils/raw-icons";
 import SVGIcon from "@/lib/svg-icon";
 
 const navListArr = [
-  { title: "Dashboard", redirectHref: "" },
+  { title: "Workflow", redirectHref: "/workflow" },
   { title: "Pricing", redirectHref: "" },
   {
     title: "Docs",
