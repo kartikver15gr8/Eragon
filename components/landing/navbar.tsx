@@ -92,7 +92,7 @@ export default function Navbar() {
           showNavbar ? "translate-y-0" : "-translate-y-full"
         }`}
       >
-        <div className="h-[55px] border border-[#c7c7c7] w-full rounded-xl flex items-center justify-between pl-3 pr-2">
+        <div className="h-[55px] border border-[#c7c7c7] w-full rounded-xl flex items-center justify-between pl-3 pr-2 bg-[#cbc9c929]">
           <Link href="/">
             <Image
               className="w-8"
